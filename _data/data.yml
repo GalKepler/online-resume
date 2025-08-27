@@ -102,10 +102,10 @@ contact:
 profile:
   show: true
   order: 1
-  title: Profile
+  title: Professional Summary
   description: |
-    Data Scientist with strong foundations in *machine learning, data engineering, network-based analysis
-    and statistical modeling*, combining rigorous research training with hands-on industry-ready skills.
+    Data Scientist with strong foundations in **machine learning, data engineering, network-based analysis
+    and statistical modeling**, combining rigorous research training with hands-on industry-ready skills.
     Experienced in building end-to-end ML pipelines on large, complex datasets (MRI and behavioral),
     correcting biases in observational data. Open-source contributor with proven ability to translate theory
     into scalable, practical solutions.
@@ -113,12 +113,10 @@ profile:
 experience:
   show: true
   order: 2
-  title: Experiences
-  description: |
-    The experiences section in a resume is a section where you list your previous work experiences and accomplishments. It typically includes information about your previous job titles, companies you worked for, the dates of your employment, and your key responsibilities and achievements in each role. This section is important because it gives potential employers a sense of your work history and the skills and expertise you have developed over time. It can also help demonstrate your ability to contribute value to a new organization based on your past achievements.
-
+  title: Core Skills
+  description:
   items:
-    - company: Second Company
+    - company: **Programming & Tools**: Python (NumPy, pandas, scikit-learn, SciPy, statsmodels, matplotlib, Jupyter), Git/GitHub, Linux
       link: '#'
       tags: Full-time
       date: 2018.03 - 2019.03
